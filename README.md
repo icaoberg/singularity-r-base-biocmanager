@@ -15,7 +15,7 @@ bash ./script.sh
 ```
 
 ## Requirements
-Singularity v2.6+ is needed to build the container. However as of today, only version 2.6.0 will work on `lanec1.compbio.cs.cmu.edu`
+Singularity v2.6+ is needed to build the container. However as of today, only version 2.6.0 will work on our department cluster.
 
 ## Disclaimer
 
